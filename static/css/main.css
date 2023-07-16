@@ -1,0 +1,156 @@
+:root {
+    --main-color: #A9EE6F;
+}
+
+.header .bg-color-header{
+    background-color: var(--main-color);
+}
+
+.header .button-signup {
+    background-color: white;
+}
+
+.cover-title {
+    background-color: pink;
+}
+
+.cover-description {
+    font-size: 1.4rem;
+    margin-bottom: 0;
+    line-height: 31px;
+}
+
+.cover .carousel-caption-box {
+    position: absolute;
+    bottom: 15rem;
+    left: 15%;
+    color: #fff;
+    background-color:white;
+    text-align: center;
+}
+
+.btn .btnkonviene {
+    background-color: var(--main-color) !important;
+}
+
+.what-agent__circle {
+    background-color: var(--main-color);
+    text-align: center;
+    padding-top: 13rem;
+    padding-bottom: 13rem;
+}
+
+
+.what-agent__description {
+    font-size: 1.2rem;
+    line-height: 2.4rem;
+    font-weight: 200;
+    height: 100%;
+}
+
+
+.what-agent-two__description {
+    font-size: 1.2rem;
+    line-height: 2.4rem;
+    font-weight: 200;
+    height: 100%;
+}
+
+.what-agent-two__image {
+    background-image: url('/static/img/landing_agentes_05.jpeg');
+    height: 19rem;
+    background-size: 100% 100%;
+}
+
+.agent-details {
+    background-image: url('/static/img/textura-02.png');
+    padding: 10rem 0;
+}
+
+.agent-details__title {
+    line-height: 3.5rem;
+}
+
+.agent-details__desciption {
+    font-weight: 200;
+    line-height: 3rem;
+}
+
+.agent-benefits {
+    background-image: url('/static/img/fondo-gris.png');
+    padding: 10rem 0;
+}
+
+.agent-benefits__title {
+    margin-bottom: 8rem;
+    color: white;
+}
+
+
+.agent-benefits__circle {
+    background-color: var(--main-color);
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.agent-share {
+    background-image: url('/static/img/landing_agentes_01.jpg');
+    background-size: 100% 100%;
+}
+
+.agent-share__title {
+    color: white;
+    margin-top: 8rem;
+    height: 22rem;
+}
+
+.agent-share__description {
+    color: white;
+    margin-top: 20rem;
+    margin-bottom: 70px;
+}
+
+.agent-share__description-title {
+    font-size: 1.5rem;
+}
+
+.agent-share__description__facebook {
+    margin-left: 18px;
+    background-color: rgb(106, 106, 203);
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+}
+
+.agent-share__description__instagram {
+    margin-left: 18px;
+    background-color: rgb(238, 143, 213);
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white
+}
+
+.footer {
+    background-color: #fffafa;
+}
+
+
+@media (max-width: 1400px){
+    .what-agent__description {
+        margin-left: 7rem;
+        font-size: 1.2rem;
+    }
+}
+
+
+@media (max-width: 1999px){
+    .what-agent__description {
+        font-size: 1.2rem;
+    }
+
+    .what-agent__circle h1 {
+        font-size: 2rem;
+    }
+}
+
+
