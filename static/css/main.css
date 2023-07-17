@@ -1,9 +1,5 @@
-:root {
-    --main-color: #A9EE6F;
-}
-
 .header .bg-color-header{
-    background-color: var(--main-color);
+    background-color: #A9EE6F;
 }
 
 .header .button-signup {
@@ -30,11 +26,11 @@
 }
 
 .btn .btnkonviene {
-    background-color: var(--main-color) !important;
+    background-color: #A9EE6F !important;
 }
 
 .what-agent__circle {
-    background-color: var(--main-color);
+    background-color: #A9EE6F;
     text-align: center;
     padding-top: 13rem;
     padding-bottom: 13rem;
@@ -58,13 +54,13 @@
 }
 
 .what-agent-two__image {
-    background-image: url('/static/img/image-hoyas.jpg');
+    background-image: url('../img/image-hoyas.jpg');
     height: 19rem;
     background-size: 100% 100%;
 }
 
 .agent-details {
-    background-image: url('/static/img/textura.png');
+    background-image: url('../img/textura.png');
     padding: 10rem 0;
 }
 
@@ -78,7 +74,7 @@
 }
 
 .agent-benefits {
-    background-image: url('/static/img/fondo-gris.png');
+    background-image: url('../img/fondo-gris.png');
     padding: 10rem 0;
 }
 
@@ -89,13 +85,13 @@
 
 
 .agent-benefits__circle {
-    background-color: var(--main-color);
+    background-color: #A9EE6F;
     text-align: center;
     font-size: 1.5rem;
 }
 
 .agent-share {
-    background-image: url('/static/img/landing_agentes_01.jpg');
+    background-image: url('../img/landing_agentes_01.jpg');
     background-size: 100% 100%;
 }
 
