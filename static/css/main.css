@@ -1,5 +1,5 @@
 .header .bg-color-header{
-    background-color: #A9EE6F;
+    background-color: #C8EB75;
 }
 
 .header .button-signup {
@@ -26,11 +26,11 @@
 }
 
 .btn .btnkonviene {
-    background-color: #A9EE6F !important;
+    background-color: #C8EB75 !important;
 }
 
 .what-agent__circle {
-    background-color: #A9EE6F;
+    background-color: #C8EB75;
     text-align: center;
     padding-top: 13rem;
     padding-bottom: 13rem;
@@ -85,7 +85,7 @@
 
 
 .agent-benefits__circle {
-    background-color: #A9EE6F;
+    background-color: #C8EB75;
     text-align: center;
     font-size: 1.5rem;
 }
