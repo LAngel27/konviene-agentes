@@ -58,7 +58,7 @@
 }
 
 .what-agent-two__image {
-    background-image: url('/static/img/landing_agentes_05.jpg');
+    background-image: url('/static/img/image-hoyas.jpg');
     height: 19rem;
     background-size: 100% 100%;
 }
@@ -78,7 +78,7 @@
 }
 
 .agent-benefits {
-    background-image: url('/static/img/fondogris.png');
+    background-image: url('/static/img/fondo-gris.png');
     padding: 10rem 0;
 }
 
